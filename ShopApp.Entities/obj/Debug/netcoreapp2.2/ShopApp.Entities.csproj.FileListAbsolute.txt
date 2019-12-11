@@ -1,0 +1,30 @@
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.runtimeconfig.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.runtimeconfig.dev.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.runtimeconfig.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.runtimeconfig.dev.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.runtimeconfig.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.runtimeconfig.dev.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb

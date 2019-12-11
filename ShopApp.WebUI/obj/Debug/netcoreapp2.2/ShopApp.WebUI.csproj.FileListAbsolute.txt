@@ -1,0 +1,170 @@
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.deps.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.dev.json
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csprojAssemblyReference.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfo.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.input.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.output.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorCoreGenerate.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Accessdenied.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\KSevi\Desktop\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.deps.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.dev.json
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csprojAssemblyReference.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfo.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.input.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.output.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorCoreGenerate.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Accessdenied.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\GetOrders.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\KSevi\source\repos\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\64-Get Orders\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.deps.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.dev.json
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csprojAssemblyReference.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfo.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.input.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.output.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorCoreGenerate.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Accessdenied.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\GetOrders.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\KSevi\Desktop\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
