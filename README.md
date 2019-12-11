@@ -1,0 +1,2 @@
+# CoreEticaret
+ Eticaret Uygulaması
